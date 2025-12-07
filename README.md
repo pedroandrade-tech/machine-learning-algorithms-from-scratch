@@ -60,7 +60,7 @@ O objetivo deste projeto não é apenas modelar dados, mas abrir a "caixa preta"
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Machine-Learning-Algorithms-From-Scratch.git](https://github.com/YOUR_USERNAME/Machine-Learning-Algorithms-From-Scratch.git)
+    git clone https://github.com/pedroandrade-tech/ml-algorithms-from-scratch.git
     ```
 2.  Navigate to the project directory:
     ```bash
