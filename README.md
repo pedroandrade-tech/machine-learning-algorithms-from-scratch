@@ -74,4 +74,4 @@ O objetivo deste projeto não é apenas modelar dados, mas abrir a "caixa preta"
 
 ## Author
 * **Pedro Andrade** - *Aspiring Machine Learning Engineer & Developer*
-* https://www.linkedin.com/in/pedro-andrade-959214243/
+* https://www.linkedin.com/in/pedroandrade-tech/
