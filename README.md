@@ -4,7 +4,7 @@
 ![NumPy](https://img.shields.io/badge/Library-NumPy-orange)
 ![Status](https://img.shields.io/badge/Status-Educational-green)
 
-## 🇺🇸 English Description
+## English Description
 
 ### Overview
 This repository contains fundamental Machine Learning algorithms (**Linear Regression** and **Logistic Regression**) implemented entirely from scratch using **Python** and **NumPy**. 
@@ -30,7 +30,7 @@ The goal of this project is not just to model data, but to open the "black box" 
 
 ---
 
-## 🇧🇷 Descrição em Português
+## Descrição em Português
 
 ### Visão Geral
 Este repositório contém algoritmos fundamentais de Machine Learning (**Regressão Linear** e **Regressão Logística**) implementados totalmente do zero (From Scratch) utilizando **Python** e **NumPy**.
@@ -56,7 +56,7 @@ O objetivo deste projeto não é apenas modelar dados, mas abrir a "caixa preta"
 
 ---
 
-## 🚀 How to Run / Como Rodar
+## How to Run / Como Rodar
 
 1.  Clone the repository:
     ```bash
@@ -72,6 +72,6 @@ O objetivo deste projeto não é apenas modelar dados, mas abrir a "caixa preta"
     ```
 4.  Run the notebooks using Jupyter Lab or VS Code.
 
-## 📬 Author
+## Author
 * **Pedro Andrade** - *Aspiring Machine Learning Engineer & Developer*
 * https://www.linkedin.com/in/pedro-andrade-959214243/
