@@ -1,10 +1,10 @@
 # Linear Regression - From Scratch Implementations | Regressão Linear - Implementações do Zero
 
-> **🇺🇸 English version below** | **🇧🇷 Versão em português abaixo**
+> **English version below** | **Versão em português abaixo**
 
 ---
 
-## 🇺🇸 English
+## English
 
 From-scratch implementations of Linear Regression using NumPy, demonstrating both single-feature and multiple-feature regression on the Diabetes dataset.
 
@@ -37,7 +37,7 @@ These notebooks implement linear regression algorithms manually, focusing on und
 
 ### Implementation Details
 
-#### ✅ Implemented From Scratch
+#### Implemented From Scratch
 
 - **Cost function**: Mean Squared Error (MSE)
 - **Gradient computation**: Partial derivatives calculation
@@ -45,7 +45,7 @@ These notebooks implement linear regression algorithms manually, focusing on und
 - **Prediction function**: Linear model evaluation
 - **Performance metrics**: Manual R² calculation
 
-#### ⚠️ External Dependencies (Non-Algorithm)
+#### External Dependencies (Non-Algorithm)
 
 The following sklearn utilities are used for **data loading and evaluation only**:
 - `load_diabetes`: Dataset loading
@@ -174,7 +174,7 @@ These implementations prioritize **clarity and understanding** over production-r
 
 ---
 
-## 🇧🇷 Português
+## Português
 
 Implementações do zero de Regressão Linear usando NumPy, demonstrando regressão com uma única feature e múltiplas features no dataset Diabetes.
 
@@ -207,7 +207,7 @@ Estes notebooks implementam algoritmos de regressão linear manualmente, focando
 
 ### Detalhes da Implementação
 
-#### ✅ Implementado do Zero
+#### Implementado do Zero
 
 - **Função de custo**: Erro Quadrático Médio (MSE)
 - **Cálculo do gradiente**: Cálculo de derivadas parciais
@@ -215,7 +215,7 @@ Estes notebooks implementam algoritmos de regressão linear manualmente, focando
 - **Função de predição**: Avaliação do modelo linear
 - **Métricas de performance**: Cálculo manual de R²
 
-#### ⚠️ Dependências Externas (Não-Algorítmicas)
+#### Dependências Externas (Não-Algorítmicas)
 
 As seguintes utilidades do sklearn são usadas **apenas para carregamento de dados e avaliação**:
 - `load_diabetes`: Carregamento do dataset
