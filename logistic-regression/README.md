@@ -1,10 +1,10 @@
 # Logistic Regression - Vectorized Implementation | Regressão Logística - Implementação Vetorizada
 
-> **🇺🇸 English version below** | **🇧🇷 Versão em português abaixo**
+> **English version below** | **Versão em português abaixo**
 
 ---
 
-## 🇺🇸 English
+## English
 
 A from-scratch implementation of Logistic Regression using NumPy for binary classification on the Framingham Heart Study dataset.
 
@@ -21,7 +21,7 @@ This notebook implements the core logistic regression algorithm manually, focusi
 
 ### Implementation Details
 
-#### ✅ Implemented From Scratch
+#### Implemented From Scratch
 
 - **Sigmoid function**: Logistic activation function
 - **Cost function**: Binary cross-entropy (log loss)
@@ -29,7 +29,7 @@ This notebook implements the core logistic regression algorithm manually, focusi
 - **Gradient descent**: Iterative optimization algorithm
 - **Prediction function**: Binary classification with configurable threshold
 
-#### ⚠️ External Dependencies (Non-Algorithm)
+#### External Dependencies (Non-Algorithm)
 
 The following sklearn utilities are used for **data preprocessing only**:
 - `train_test_split`: Dataset splitting
@@ -128,7 +128,7 @@ This implementation prioritizes **clarity and understanding** over production-re
 
 ---
 
-## 🇧🇷 Português
+## Português
 
 Uma implementação do zero de Regressão Logística usando NumPy para classificação binária no dataset Framingham Heart Study.
 
@@ -145,7 +145,7 @@ Este notebook implementa o algoritmo central de regressão logística manualment
 
 ### Detalhes da Implementação
 
-#### ✅ Implementado do Zero
+#### Implementado do Zero
 
 - **Função sigmoid**: Função de ativação logística
 - **Função de custo**: Entropia cruzada binária (log loss)
@@ -153,7 +153,7 @@ Este notebook implementa o algoritmo central de regressão logística manualment
 - **Gradiente descendente**: Algoritmo de otimização iterativa
 - **Função de predição**: Classificação binária com threshold configurável
 
-#### ⚠️ Dependências Externas (Não-Algorítmicas)
+#### Dependências Externas (Não-Algorítmicas)
 
 As seguintes utilidades do sklearn são usadas **apenas para pré-processamento de dados**:
 - `train_test_split`: Divisão do dataset
